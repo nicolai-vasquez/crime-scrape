@@ -3,7 +3,7 @@
 ## Get started quickly
 1. Install dependencies
 ```
-npm
+npm i
 ```
 2. Run script
 ```
